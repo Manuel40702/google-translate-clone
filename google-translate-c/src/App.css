@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+
+body{
+  background: #dbdada;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  margin-bottom: 1.2em;
+}
+
+body::before{
+  content: '';
+  position: absolute;
+  right: 0;
+  width: 100%;
+  height: 100vh;
+  opacity: 0.4;
+  background: rgba(51, 130, 221, 0.867);
+  clip-path: polygon(100% 0, 67% 100%, 100% 100%);
+  z-index: 1;
+}
