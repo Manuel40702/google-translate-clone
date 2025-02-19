@@ -33,4 +33,4 @@ npm run dev
 ```
 
 ### Credits:
-([Midulive]((https://youtu.be/kZhabulNCUc?si=Lz_wnEqWTDfkYa-S)) 
+([Midulive](https://youtu.be/kZhabulNCUc?si=Lz_wnEqWTDfkYa-S)) 
